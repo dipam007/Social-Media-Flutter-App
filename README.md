@@ -1,6 +1,6 @@
-# social_media_app
+## social_media_app
 
-It is Social Media app with facilities like share posts, like posts, comment on posts, etc.
+It is Social Media app with facilities like share posts, chat with friends, view friend's posts, etc.
 
 ## Getting Started
 
