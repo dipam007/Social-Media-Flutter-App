@@ -1,6 +1,6 @@
 ## social_media_app
 
-It is Social Media app with facilities like share posts, chat with friends, view friend's posts, etc.
+It is Social Media app with facilities like share posts, chat with friends, view friend's posts, etc. I also set admin login so it's helpful for changing appbar background colour and also for bottom navbar design.
 
 ## Getting Started
 
